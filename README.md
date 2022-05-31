@@ -1,2 +1,2 @@
-# Projeto CSS Transitions
-Projeto de construção de portifolio utilizando HTML e CSS
+# Desenvolvendo com CSS Transitions
+Exercícios de projeto da DIO utilizando HTML e CSS
